@@ -1,0 +1,31 @@
+.banner {
+    width: 100%;
+    background-image: url("https://images.pexels.com/photos/1181595/pexels-photo-1181595.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 480px;
+    position: relative;
+}
+
+.banner .header {
+    width: 50%;
+    position: absolute;
+    top: 35%;
+    left: 0;
+    color: #e10707;
+    font-weight: 700;
+    font-size: 2rem;
+    text-align: center;
+    padding: 0 2rem;
+}
+
+.banner .body {
+    width: 50%;
+    position: absolute;
+    top: 45%;
+    left: 0;
+    color: #2f3640;
+    text-align: center;
+    padding: 0 2rem;
+}

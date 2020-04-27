@@ -1,0 +1,63 @@
+.footer {
+    padding: 1.75rem 2rem;
+    width: 100%;
+    background-color: #2f3640;
+    min-height: 200px;
+    overflow: hidden;
+}
+
+.row {
+    margin-top: 1.75rem;
+}
+
+.footer .col3 {
+    width: 33.33%;
+    padding: 0 15px;
+    float: left;
+}
+
+.footer .title {
+    font-weight: 700;
+    font-size: .75rem;
+    color: #ddd;
+}
+
+.footer .address {
+    color: #ecf0f1;
+    font-size: .75rem;
+}
+
+.footer .social img {
+    padding-right: .75rem;
+}
+
+.footer .listGroup {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.footer .listGroupItem {
+    position: relative;
+    display: block;
+    padding: .75rem .75rem .75rem 0rem;
+    border-bottom: 1px solid rgba(236, 240, 241, .125);
+    color: #ecf0f1;
+    font-size: .75rem;
+}
+
+.footer .listGroupItem a {
+    text-decoration: none;
+    color: #ecf0f1;
+}
+
+.copyright {
+    padding: 1rem 2rem;
+    font-size: .75rem;
+    text-align: center;
+    color: #ecf0f1;
+    width: 100%;
+    border-top: 1px solid rgba(236, 240, 241, .125);
+    background-color: #2f3640;
+}

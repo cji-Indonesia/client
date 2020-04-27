@@ -1,0 +1,9 @@
+.contentText {
+    text-align: center;
+}
+
+.contentText .title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #e10707;
+}
